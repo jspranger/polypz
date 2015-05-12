@@ -1,0 +1,17 @@
+﻿Build started 13/05/2014 15:57:15.
+     1>Project "C:\Users\João\Desktop\MESTRADO\COMPUTACAO_GRAFICA\Imagem_Medica\finalissima\project\Polyps.vcxproj" on node 2 (build target(s)).
+     1>C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets(1422,5): warning : The referenced project 'C:/polyps/project/ZERO_CHECK.vcxproj' does not exist.
+     1>PrepareForBuild:
+         Creating directory "C:\polyps\project\Release\".
+       InitializeBuildStatus:
+         Creating "Polyps.dir\Release\Polyps.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Building Custom Rule C:/polyps/project/source/CMakeLists.txt
+         CMake is re-running because C:\polyps\project\CMakeFiles\generate.stamp dependency file is missing.
+     1>CUSTOMBUILD : CMake error : The source directory "C:/polyps/project/source" does not exist.
+         Specify --help for usage, or press the help button on the CMake GUI.
+     1>Done Building Project "C:\Users\João\Desktop\MESTRADO\COMPUTACAO_GRAFICA\Imagem_Medica\finalissima\project\Polyps.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.24

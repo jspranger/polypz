@@ -1,0 +1,16 @@
+﻿Build started 13/05/2014 15:57:14.
+     1>Project "C:\Users\João\Desktop\MESTRADO\COMPUTACAO_GRAFICA\Imagem_Medica\finalissima\project\ZERO_CHECK.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Win32\Release\ZERO_CHECK\ZERO_CHECK.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ComputeCustomBuildOutput:
+         Creating directory "C:\polyps\project\CMakeFiles\".
+       CustomBuild:
+         Checking Build System
+         CMake is re-running because C:/polyps/project/CMakeFiles/generate.stamp dependency file is missing.
+     1>CUSTOMBUILD : CMake error : The source directory "C:/polyps/project/source" does not exist.
+         Specify --help for usage, or press the help button on the CMake GUI.
+     1>Done Building Project "C:\Users\João\Desktop\MESTRADO\COMPUTACAO_GRAFICA\Imagem_Medica\finalissima\project\ZERO_CHECK.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.76

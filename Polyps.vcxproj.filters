@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="source\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\FeaturePrinter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\FeatureExtractor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\fwt.cpp">
+      <Filter>Source Files\api</Filter>
+    </ClCompile>
+    <ClCompile Include="source\FeatureClassifier.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="source\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9159E070-1A0A-4A65-91E8-0416614DC3D0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files">
+      <UniqueIdentifier>{9a2d97ba-cc78-4e3b-88bd-9bc05ce5541a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files\api">
+      <UniqueIdentifier>{ea4cd98b-0f91-4965-aa44-621c14af020f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\api">
+      <UniqueIdentifier>{960eaa63-7f64-4874-b897-50b94a90f6ad}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\FeaturePrinter.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\FeatureExtractor.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\fwt.h">
+      <Filter>Header files\api</Filter>
+    </ClInclude>
+    <ClInclude Include="include\FeatureClassifier.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\config.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
